@@ -10,6 +10,11 @@ Hi, I'm Luis, I have a degree in Analysis and Systems Development. I'm passionat
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LuisdeOliveiraPrimo&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="Gráfico de linguagens" />
 </div>
 
+### 🔥 Projetos em Destaque
+- 📊 [Dashboard de Vendas com Power BI](https://github.com/LuisdeOliveiraPrimo/dashboard-vendas)
+- 🐍 [Análise de Dados com Python](https://github.com/LuisdeOliveiraPrimo/analise-dados-python)
+- 🌦️ [Weather App com Tkinter](https://github.com/LuisdeOliveiraPrimo/weather-app)
+
 
 ---
 
