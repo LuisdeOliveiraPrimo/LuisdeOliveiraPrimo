@@ -15,7 +15,6 @@ Hi, I'm Luis, I have a degree in Analysis and Systems Development. I'm passionat
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=LuisdeOliveiraPrimo&show_icons=true&theme=dracula" height="150" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisdeOliveiraPrimo&layout=compact&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisdeOliveiraPrimo&theme=radical" height="150" />
 </div>
 
 
@@ -35,4 +34,4 @@ Hi, I'm Luis, I have a degree in Analysis and Systems Development. I'm passionat
 
 <br />
 
-🧩 *"Transformando dados em soluções, um projeto de cada vez."*
+🧩 "Transformando dados em soluções, um projeto de cada vez."
