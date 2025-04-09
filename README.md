@@ -5,6 +5,10 @@
 Hi, I'm Luis, I have a degree in Analysis and Systems Development. I'm passionate about software development and Data Analysis and thrive in dynamic environments. I'm committed to continuous learning and professional growth, exploring new technologies and methodologies to enhance my expertise through online courses, literature and networking.
 
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pinfay&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pinfay&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
 ---
 
