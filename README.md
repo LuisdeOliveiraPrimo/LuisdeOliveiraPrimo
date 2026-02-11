@@ -13,13 +13,6 @@ Hi, I'm Luis, I have a degree in Analysis and Systems Development. I'm passionat
 - Dashboards
 - Data Engineering
 
-<div align="center">
-  <a href="https://github.com/LuisdeOliveiraPrimo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuisdeOliveiraPrimo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisdeOliveiraPrimo&layout=compact&theme=tokyonight"/>
-  </a>
-</div>
-
 ---
 
 ### 🧰 Languages and Tools
